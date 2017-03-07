@@ -4,6 +4,6 @@
 int main()
 {
     int i;
-    /*fenetudja kivagyok*/
+    for(i=0;i<100;i++);
     printf("Hello world!\n");
 }
