@@ -5,6 +5,7 @@
 Keresse meg a második legnagyobb értékű elemet a tömbben! Keresse meg a legkisebb elemet a tömbben!*/
 int main()
 {
+<<<<<<< HEAD
     int a=0,o=-31313 ,max=-212212, tmb[100], k=100, min=21010101;
 
     for(a=0;a<100;a++)
@@ -38,4 +39,9 @@ int main()
 
 
     return 0;
+=======
+    int i;
+    for(i=0;i<100;i++);
+    printf("Hello world!\n");
+>>>>>>> origin/master
 }
